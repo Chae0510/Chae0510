@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Welcome!%20&fontSize=90)
 
-<h1 align="center"> 👩🏻‍💻 About Me </>
+<h1 align="center"> 👩🏻‍💻 About Me </h1> <br>
 
 Welcome to my GitHub.🫶 
 * I'm studying in the department of Ai at Gachon Univ.🥰
